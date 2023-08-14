@@ -2,7 +2,7 @@
 
 #### 介绍
 适配所有上门服务，付费全开源，加微信：BSKJ-CHEN
-<img src="74e82918b7e8ea329d52485997dd55f.jpg" width="50%" height="auto" />
+<img src="https://gitee.com/csk-code/djdj/raw/master/74e82918b7e8ea329d52485997dd55f.jpg" width="50%" height="auto" />
 
 #### 架构
 - 后端：ThinkPHP
