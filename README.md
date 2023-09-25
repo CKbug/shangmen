@@ -1,8 +1,8 @@
 # 仿东郊到家上门服务源码
 
 #### 介绍
-适配所有上门服务，付费全开源，加微信：BSKJ-CHEN
-<img src="[https://gitee.com/csk-code/djdj/raw/master/74e82918b7e8ea329d52485997dd55f.jpg](https://gitee.com/csk-code/djdj/raw/master/74e82918b7e8ea329d52485997dd55f.jpg)" width="50%" height="auto" />
+运营中的项目源码，稳定可靠，安全省心，适配所有上门服务，部署直接运营，加微信：BSKJ-CHEN
+<img src="https://gitee.com/csk-code/djdj/raw/master/74e82918b7e8ea329d52485997dd55f.jpg" width="50%" height="auto" />
 
 #### 架构
 - 后端：ThinkPHP
