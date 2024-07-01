@@ -5,6 +5,7 @@
 <img src="wx.jpg" width="50%" height="auto" />
 
 #### 架构
+
 - 后端：ThinkPHP6
 - 前端：uniapp
 <img src="1.jpg" width="30%" height="auto" />
