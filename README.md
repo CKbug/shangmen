@@ -10,7 +10,6 @@
 - 后端：ThinkPHP6
 - 前端：uniapp
 - 数据库：Mysql
-<img src="1.jpg" width="25%" height="auto" />
-<img src="2.jpg" width="25%" height="auto" />
+<img src="1.jpg" width="25%" height="auto" /> <img src="2.jpg" width="25%" height="auto" />
 <img src="3.png" width="100%" height="auto" />
-
+ 
